@@ -6,12 +6,14 @@
 | ------- |
 | [0001-two-sum](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0001-two-sum) |
 | [0137-single-number-ii](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0137-single-number-ii) |
+| [0229-majority-element-ii](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0229-majority-element-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0229-majority-element-ii](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0229-majority-element-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0442-find-all-duplicates-in-an-array) |
 ## String
 |  |
@@ -28,9 +30,18 @@
 ## Sorting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0229-majority-element-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0137-single-number-ii](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0137-single-number-ii) |
+## Counting
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0229-majority-element-ii) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
