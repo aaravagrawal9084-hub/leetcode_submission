@@ -11,6 +11,7 @@
 | [0523-continuous-subarray-sum](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0525-contiguous-array) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 ## Hash Table
 |  |
 | ------- |
@@ -29,6 +30,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 ## Math
 |  |
 | ------- |
