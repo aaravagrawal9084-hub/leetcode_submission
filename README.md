@@ -11,6 +11,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0523-continuous-subarray-sum](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0525-contiguous-array) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0746-min-cost-climbing-stairs](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0746-min-cost-climbing-stairs) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -84,6 +85,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1539-kth-missing-positive-number](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/1539-kth-missing-positive-number) |
 ## Divide and Conquer
 |  |
