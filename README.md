@@ -18,6 +18,7 @@
 | [0974-subarray-sums-divisible-by-k](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1539-kth-missing-positive-number](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/1539-kth-missing-positive-number) |
+| [1920-build-array-from-permutation](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/1929-concatenation-of-array) |
 ## Hash Table
 |  |
@@ -118,5 +119,6 @@
 ## Simulation
 |  |
 | ------- |
+| [1920-build-array-from-permutation](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
