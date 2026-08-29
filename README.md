@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0011-container-with-most-water) |
+| [0041-first-missing-positive](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0041-first-missing-positive) |
 | [0066-plus-one](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0066-plus-one) |
 | [0137-single-number-ii](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0137-single-number-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0215-kth-largest-element-in-an-array) |
@@ -28,6 +29,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0041-first-missing-positive](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0041-first-missing-positive) |
 | [0229-majority-element-ii](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0229-majority-element-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0523-continuous-subarray-sum](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0523-continuous-subarray-sum) |
