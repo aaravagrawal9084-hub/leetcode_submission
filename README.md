@@ -46,6 +46,7 @@
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0007-reverse-integer) |
+| [0326-power-of-three](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0523-continuous-subarray-sum) |
 ## Sorting
@@ -84,6 +85,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0326-power-of-three](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
