@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0011-container-with-most-water) |
+| [0066-plus-one](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0066-plus-one) |
 | [0137-single-number-ii](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0137-single-number-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0229-majority-element-ii) |
@@ -46,6 +47,7 @@
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0007-reverse-integer) |
+| [0066-plus-one](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0066-plus-one) |
 | [0231-power-of-two](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0509-fibonacci-number) |
