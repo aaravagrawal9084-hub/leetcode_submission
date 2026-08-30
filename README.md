@@ -24,6 +24,7 @@
 | [1672-richest-customer-wealth](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/1672-richest-customer-wealth) |
 | [1920-build-array-from-permutation](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/1929-concatenation-of-array) |
+| [2326-spiral-matrix-iv](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/2326-spiral-matrix-iv) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Hash Table
 |  |
@@ -142,10 +143,12 @@
 | ------- |
 | [1920-build-array-from-permutation](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/1929-concatenation-of-array) |
+| [2326-spiral-matrix-iv](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/2326-spiral-matrix-iv) |
 ## Matrix
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/1672-richest-customer-wealth) |
+| [2326-spiral-matrix-iv](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/2326-spiral-matrix-iv) |
 ## Linked List
 |  |
 | ------- |
@@ -153,6 +156,7 @@
 | [0206-reverse-linked-list](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0206-reverse-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0445-add-two-numbers-ii) |
 | [1669-merge-in-between-linked-lists](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/1669-merge-in-between-linked-lists) |
+| [2326-spiral-matrix-iv](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/2326-spiral-matrix-iv) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Stack
