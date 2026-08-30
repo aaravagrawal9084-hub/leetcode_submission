@@ -58,6 +58,7 @@
 | [0509-fibonacci-number](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0523-continuous-subarray-sum) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [2816-double-a-number-represented-as-a-linked-list](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Sorting
 |  |
 | ------- |
@@ -147,5 +148,10 @@
 | ------- |
 | [0206-reverse-linked-list](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0206-reverse-linked-list) |
 | [1669-merge-in-between-linked-lists](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/1669-merge-in-between-linked-lists) |
+| [2816-double-a-number-represented-as-a-linked-list](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
+## Stack
+|  |
+| ------- |
+| [2816-double-a-number-represented-as-a-linked-list](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 <!---LeetCode Topics End-->
