@@ -46,6 +46,5 @@ class Solution {
             a = a.next;
         }
         return dummy.next;
-        
     }
 }
