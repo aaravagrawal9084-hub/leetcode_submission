@@ -26,6 +26,7 @@
 | [1929-concatenation-of-array](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/1929-concatenation-of-array) |
 | [2326-spiral-matrix-iv](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/2326-spiral-matrix-iv) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
+| [3875-construct-uniform-parity-array-i](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -62,6 +63,7 @@
 | [0523-continuous-subarray-sum](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0523-continuous-subarray-sum) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/2816-double-a-number-represented-as-a-linked-list) |
+| [3875-construct-uniform-parity-array-i](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/3875-construct-uniform-parity-array-i) |
 ## Sorting
 |  |
 | ------- |
