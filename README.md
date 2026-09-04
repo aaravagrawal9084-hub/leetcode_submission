@@ -67,6 +67,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0229-majority-element-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -119,6 +120,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0215-kth-largest-element-in-an-array) |
 ## Heap (Priority Queue)
 |  |
@@ -136,6 +138,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0011-container-with-most-water) |
+| [0148-sort-list](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0148-sort-list) |
 ## Greedy
 |  |
 | ------- |
@@ -155,6 +158,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0002-add-two-numbers) |
+| [0148-sort-list](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0206-reverse-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0445-add-two-numbers-ii) |
 | [1669-merge-in-between-linked-lists](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/1669-merge-in-between-linked-lists) |
@@ -166,4 +170,8 @@
 | ------- |
 | [0445-add-two-numbers-ii](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0445-add-two-numbers-ii) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/2816-double-a-number-represented-as-a-linked-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
