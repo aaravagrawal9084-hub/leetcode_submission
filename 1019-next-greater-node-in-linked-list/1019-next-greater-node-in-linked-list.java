@@ -16,7 +16,6 @@ class Solution {
             else{
                 while(st.size()!=0 && ans.get(st.peek())<ans.get(i)){
                     arr[st.peek()] = ans.get(i);
-                    System.out.print(arr[st.peek()]+" ");
                     st.pop();
                 }
                 st.push(i);
