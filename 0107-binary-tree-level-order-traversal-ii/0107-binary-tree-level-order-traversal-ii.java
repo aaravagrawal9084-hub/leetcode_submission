@@ -19,7 +19,7 @@ class Solution {
             TreeNode left = front.node.left;
             TreeNode right = front.node.right;
             if(front.level!=prevlevel){
-                ans.add(List);
+                ans.add(0,List);
                 prevlevel++;
                 List = new ArrayList<Integer>();
             }
@@ -27,8 +27,7 @@ class Solution {
             if(left!=null) q.add(new Pair(left,front.level+1));
             if(right!=null) q.add(new Pair(right,front.level+1));
         }
-        ans.add(List);
-        Collections.reverse(ans);
+        ans.add(0,List);
         return ans; 
     }
 }
