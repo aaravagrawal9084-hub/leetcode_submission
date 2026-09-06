@@ -43,7 +43,7 @@ class Solution {
                 for(int i = 0; i < List.size() - 1; i++) {
                     List.get(i).next = List.get(i + 1);
                 }
-                // List.get(List.size() - 1).next = null;
+                List.get(List.size() - 1).next = null;
 
                 prevlevel++;
                 List = new ArrayList<Node>();
