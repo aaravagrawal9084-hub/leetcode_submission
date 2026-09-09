@@ -202,6 +202,7 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0938-range-sum-of-bst](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0938-range-sum-of-bst) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -224,6 +225,7 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0938-range-sum-of-bst](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0938-range-sum-of-bst) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -233,8 +235,10 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0938-range-sum-of-bst](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0938-range-sum-of-bst) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0938-range-sum-of-bst](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0938-range-sum-of-bst) |
 <!---LeetCode Topics End-->
