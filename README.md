@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0011-container-with-most-water) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0041-first-missing-positive](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0041-first-missing-positive) |
 | [0066-plus-one](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0066-plus-one) |
 | [0137-single-number-ii](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0137-single-number-ii) |
@@ -143,6 +144,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0011-container-with-most-water) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0086-partition-list](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0086-partition-list) |
 | [0148-sort-list](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0148-sort-list) |
 | [0917-reverse-only-letters](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0917-reverse-only-letters) |
