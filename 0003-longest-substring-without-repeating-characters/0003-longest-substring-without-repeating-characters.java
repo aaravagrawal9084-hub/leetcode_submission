@@ -10,7 +10,6 @@ class Solution {
                 i = Math.max(i,map.get(ch)+1);
             }
             maxlen = Math.max(maxlen,j-i+1);
-            System.out.println(maxlen+" "+i+" "+j);
             map.put(ch,j);
             j++;
         }
