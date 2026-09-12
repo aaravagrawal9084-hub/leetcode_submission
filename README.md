@@ -153,6 +153,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0061-rotate-list](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0061-rotate-list) |
 | [0086-partition-list](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0086-partition-list) |
 | [0148-sort-list](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0148-sort-list) |
 | [0917-reverse-only-letters](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0917-reverse-only-letters) |
@@ -175,6 +176,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0002-add-two-numbers) |
+| [0061-rotate-list](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0061-rotate-list) |
 | [0086-partition-list](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0086-partition-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0138-copy-list-with-random-pointer](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0138-copy-list-with-random-pointer) |
