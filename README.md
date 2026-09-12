@@ -9,6 +9,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0041-first-missing-positive](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0041-first-missing-positive) |
 | [0066-plus-one](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0066-plus-one) |
+| [0078-subsets](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0078-subsets) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0137-single-number-ii](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0137-single-number-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0215-kth-largest-element-in-an-array) |
@@ -80,6 +81,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0078-subsets) |
 | [0137-single-number-ii](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0137-single-number-ii) |
 | [0231-power-of-two](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0260-single-number-iii) |
@@ -259,4 +261,8 @@
 | [0701-insert-into-a-binary-search-tree](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0938-range-sum-of-bst) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
