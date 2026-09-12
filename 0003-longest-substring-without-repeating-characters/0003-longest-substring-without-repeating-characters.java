@@ -4,13 +4,14 @@ class Solution {
         int i = 0;
         int j = 0;
         int maxlen = 0;
-        while (j < s.length()) {
+        while(j<s.length()){
             char ch = s.charAt(j);
-            if (map.containsKey(ch) && map.get(ch) >= i) {
-                i = map.get(ch) + 1;
+            if(map.containsKey(ch)){
+                i = Math.max(i,map.get(ch)+1);
             }
-            map.put(ch, j);
-            maxlen = Math.max(maxlen, j - i + 1);
+            maxlen = Math.max(maxlen,j-i+1);
+            System.out.println(maxlen+" "+i+" "+j);
+            map.put(ch,j);
             j++;
         }
         return maxlen;
