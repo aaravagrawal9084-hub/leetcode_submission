@@ -20,7 +20,6 @@ class Solution {
             TreeNode left = front.node.left;
             TreeNode right = front.node.right;
             if(front.level!=prevlevel){
-                System.out.print(sum+" ");
                 ans.add((double)(sum/List.size()));
                 prevlevel++;
                 List = new ArrayList<Integer>();
