@@ -23,7 +23,6 @@ class Pair{
 }
 class Solution {
     public int deepestLeavesSum(TreeNode root) {
-        ArrayList<Integer> List = new ArrayList<>();
         Queue<Pair> q = new LinkedList<>();
         int prevlevel = 0;
         q.add(new Pair(root,0));
@@ -35,10 +34,8 @@ class Solution {
             if(front.level!=prevlevel){
                 sum = 0;
                 prevlevel++;
-                List = new ArrayList<Integer>();
             }
             sum = sum + front.node.val;
-            List.add(front.node.val);
             if(left!=null) q.add(new Pair(left,front.level+1));
             if(right!=null) q.add(new Pair(right,front.level+1));
         }
