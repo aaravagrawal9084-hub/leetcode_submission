@@ -14,27 +14,23 @@ class Solution {
         Queue<Pair> q = new LinkedList<>();
         int prevlevel = 0;
         q.add(new Pair(root,0));
+        int max = Integer.MIN_VALUE;
         while(q.size()!=0){
             Pair front = q.remove();
             TreeNode left = front.node.left;
             TreeNode right = front.node.right;
             if(front.level!=prevlevel){
-                int max = Integer.MIN_VALUE;
-                for(int i = 0 ;i<List.size();i++){
-                    max = Math.max(max,List.get(i));
-                }
                 ans.add(max);
                 prevlevel++;
                 List = new ArrayList<Integer>();
+                max = Integer.MIN_VALUE;
             }
+            max = Math.max(front.node.val,max);
             List.add(front.node.val);
             if(left!=null) q.add(new Pair(left,front.level+1));
             if(right!=null) q.add(new Pair(right,front.level+1));
         }
-        int max = Integer.MIN_VALUE;
-        for(int i = 0 ;i<List.size();i++){
-            max = Math.max(max,List.get(i));
-        }
+    
         ans.add(max);
         return ans; 
     }
