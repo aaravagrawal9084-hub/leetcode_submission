@@ -14,26 +14,22 @@ class Solution {
         Queue<Pair> q = new LinkedList<>();
         int prevlevel = 0;
         q.add(new Pair(root,0));
+        double sum = 0.0;
         while(q.size()!=0){
             Pair front = q.remove();
             TreeNode left = front.node.left;
             TreeNode right = front.node.right;
             if(front.level!=prevlevel){
-                double sum = 0.0;
-                for(int i = 0;i<List.size();i++){
-                    sum = sum + List.get(i);
-                }
+                System.out.print(sum+" ");
                 ans.add((double)(sum/List.size()));
                 prevlevel++;
                 List = new ArrayList<Integer>();
+                sum = 0.0;
             }
+            sum = sum + front.node.val;
             List.add(front.node.val);
             if(left!=null) q.add(new Pair(left,front.level+1));
             if(right!=null) q.add(new Pair(right,front.level+1));
-        }
-        double sum = 0.0;
-        for(int i = 0;i<List.size();i++){
-            sum = sum + List.get(i);
         }
         ans.add((double)(sum/List.size()));
         return ans; 
