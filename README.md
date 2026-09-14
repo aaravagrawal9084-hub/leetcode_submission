@@ -66,6 +66,7 @@
 | [0002-add-two-numbers](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0007-reverse-integer) |
 | [0066-plus-one](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0326-power-of-three) |
 | [0445-add-two-numbers-ii](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0445-add-two-numbers-ii) |
@@ -109,6 +110,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0746-min-cost-climbing-stairs) |
 ## Recursion
@@ -123,6 +125,7 @@
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0509-fibonacci-number) |
 ## Binary Search
 |  |
