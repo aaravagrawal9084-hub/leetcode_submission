@@ -135,6 +135,7 @@
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0240-search-a-2d-matrix-ii) |
+| [0278-first-bad-version](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0278-first-bad-version) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1539-kth-missing-positive-number](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/1539-kth-missing-positive-number) |
@@ -327,4 +328,8 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0062-unique-paths) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
