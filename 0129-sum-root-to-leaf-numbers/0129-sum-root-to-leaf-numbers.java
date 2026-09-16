@@ -22,18 +22,15 @@ class Solution {
             sum = sum + ans.get(i);
         }
         return sum;
-        
     }
-    public void dfs(TreeNode root,int current,ArrayList<Integer> ans){
-        if(root==null){
-            return;
-        }
-        current = current*10 + root.val;
+    public void dfs(TreeNode root,int CurrentSum,ArrayList<Integer> ans){
+        if(root==null) return;
+        CurrentSum = CurrentSum * 10 + root.val;
         if(root.left==null && root.right==null){
-            ans.add(current);
+            ans.add(CurrentSum);
             return;
         }
-        dfs(root.left,current,ans);
-        dfs(root.right,current,ans);
+        dfs(root.left,CurrentSum,ans);
+        dfs(root.right,CurrentSum,ans);
     }
 }
