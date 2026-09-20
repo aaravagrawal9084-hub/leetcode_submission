@@ -262,6 +262,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0199-binary-tree-right-side-view) |
 | [0513-find-bottom-left-tree-value](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0547-number-of-provinces](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -308,6 +309,7 @@
 | [0437-path-sum-iii](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0437-path-sum-iii) |
 | [0513-find-bottom-left-tree-value](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0547-number-of-provinces](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0938-range-sum-of-bst](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0938-range-sum-of-bst) |
@@ -342,4 +344,12 @@
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0278-first-bad-version) |
+## Union-Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0547-number-of-provinces) |
+## Graph Theory
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
