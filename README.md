@@ -215,6 +215,7 @@
 |  |
 | ------- |
 | [0445-add-two-numbers-ii](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0445-add-two-numbers-ii) |
+| [0897-increasing-order-search-tree](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0897-increasing-order-search-tree) |
 | [1019-next-greater-node-in-linked-list](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/1019-next-greater-node-in-linked-list) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Merge Sort
@@ -249,6 +250,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0897-increasing-order-search-tree](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0938-range-sum-of-bst) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -296,6 +298,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0897-increasing-order-search-tree](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0938-range-sum-of-bst) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -320,6 +323,7 @@
 | [0637-average-of-levels-in-binary-tree](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0841-keys-and-rooms](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0841-keys-and-rooms) |
+| [0897-increasing-order-search-tree](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0938-range-sum-of-bst) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -334,6 +338,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0897-increasing-order-search-tree](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0938-range-sum-of-bst) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 ## Backtracking
