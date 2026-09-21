@@ -10,6 +10,7 @@
 | [0041-first-missing-positive](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0041-first-missing-positive) |
 | [0059-spiral-matrix-ii](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0078-subsets) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0137-single-number-ii](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0137-single-number-ii) |
@@ -40,6 +41,7 @@
 | [0001-two-sum](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0041-first-missing-positive](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0041-first-missing-positive) |
+| [0073-set-matrix-zeroes](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0073-set-matrix-zeroes) |
 | [0138-copy-list-with-random-pointer](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0138-copy-list-with-random-pointer) |
 | [0229-majority-element-ii](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0229-majority-element-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -189,6 +191,7 @@
 |  |
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0059-spiral-matrix-ii) |
+| [0073-set-matrix-zeroes](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0073-set-matrix-zeroes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0240-search-a-2d-matrix-ii) |
 | [1672-richest-customer-wealth](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/1672-richest-customer-wealth) |
 | [2326-spiral-matrix-iv](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/2326-spiral-matrix-iv) |
