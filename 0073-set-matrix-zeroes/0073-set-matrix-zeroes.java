@@ -13,7 +13,6 @@ class Solution {
             if(copy[i][j]==0){
                 k = i;
                 l = j;
-                System.out.println(k+" "+l);
             for(int m = 0;m<arr.length;m++){
                 for(int n = 0;n<arr[0].length;n++){
                     if(m==k){
