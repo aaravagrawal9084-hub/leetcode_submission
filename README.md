@@ -12,6 +12,7 @@
 | [0066-plus-one](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0078-subsets) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0137-single-number-ii](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0137-single-number-ii) |
 | [0200-number-of-islands](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0200-number-of-islands) |
@@ -141,6 +142,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0240-search-a-2d-matrix-ii) |
 | [0278-first-bad-version](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0278-first-bad-version) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0744-find-smallest-letter-greater-than-target) |
