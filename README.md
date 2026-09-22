@@ -14,6 +14,7 @@
 | [0078-subsets](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0078-subsets) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0137-single-number-ii](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0137-single-number-ii) |
+| [0200-number-of-islands](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0240-search-a-2d-matrix-ii) |
@@ -192,6 +193,7 @@
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0073-set-matrix-zeroes) |
+| [0200-number-of-islands](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0240-search-a-2d-matrix-ii) |
 | [1672-richest-customer-wealth](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/1672-richest-customer-wealth) |
 | [2326-spiral-matrix-iv](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/2326-spiral-matrix-iv) |
@@ -269,6 +271,7 @@
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0200-number-of-islands) |
 | [0513-find-bottom-left-tree-value](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -320,6 +323,7 @@
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0200-number-of-islands) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0437-path-sum-iii](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0437-path-sum-iii) |
 | [0513-find-bottom-left-tree-value](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0513-find-bottom-left-tree-value) |
@@ -369,6 +373,7 @@
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0547-number-of-provinces) |
 ## Graph Theory
 |  |
