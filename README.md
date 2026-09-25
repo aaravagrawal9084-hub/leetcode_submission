@@ -24,6 +24,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0523-continuous-subarray-sum](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0525-contiguous-array) |
+| [0682-baseball-game](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0682-baseball-game) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0746-min-cost-climbing-stairs](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0746-min-cost-climbing-stairs) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -194,6 +195,7 @@
 |  |
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0059-spiral-matrix-ii) |
+| [0682-baseball-game](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0682-baseball-game) |
 | [1920-build-array-from-permutation](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/1929-concatenation-of-array) |
 | [2326-spiral-matrix-iv](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/2326-spiral-matrix-iv) |
@@ -230,6 +232,7 @@
 |  |
 | ------- |
 | [0445-add-two-numbers-ii](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0445-add-two-numbers-ii) |
+| [0682-baseball-game](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0682-baseball-game) |
 | [0897-increasing-order-search-tree](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0897-increasing-order-search-tree) |
 | [1019-next-greater-node-in-linked-list](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/1019-next-greater-node-in-linked-list) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/2816-double-a-number-represented-as-a-linked-list) |
