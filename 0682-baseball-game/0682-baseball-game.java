@@ -13,12 +13,11 @@ class Solution {
                int x = st.pop();
                int y = st.pop();
                int z = x +y;
-               
                st.push(y);
                st.push(x);
                st.push(z);
             }
-            else{
+            else if (Character.isDigit(s.charAt(0)) || s.charAt(0) == '-') {
                 st.push(Integer.parseInt(s));
             }
         }
