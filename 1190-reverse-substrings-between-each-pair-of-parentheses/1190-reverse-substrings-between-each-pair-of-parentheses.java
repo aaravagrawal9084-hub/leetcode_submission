@@ -3,13 +3,13 @@ class Solution {
         Stack<Character> stack = new Stack<>();
         for (char ch : s.toCharArray()) {
             if (ch == ')') {
-                StringBuilder temp = new StringBuilder();
+                StringBuilder sb = new StringBuilder();
                 while (stack.peek() != '(') {
-                    temp.append(stack.pop());
+                    sb.append(stack.pop());
                 }
-                stack.pop(); // remove '('
-                for (int i = 0; i < temp.length(); i++) {
-                    stack.push(temp.charAt(i));
+                stack.pop();
+                for (int i = 0; i < sb.length(); i++) {
+                    stack.push(sb.charAt(i));
                 }
             } 
             else {
