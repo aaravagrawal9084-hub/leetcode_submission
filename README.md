@@ -64,6 +64,7 @@
 | [0647-palindromic-substrings](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0647-palindromic-substrings) |
 | [0796-rotate-string](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0796-rotate-string) |
 | [0917-reverse-only-letters](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0917-reverse-only-letters) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2390-removing-stars-from-a-string](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/2390-removing-stars-from-a-string) |
@@ -237,6 +238,7 @@
 | [0682-baseball-game](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0682-baseball-game) |
 | [0897-increasing-order-search-tree](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0897-increasing-order-search-tree) |
 | [1019-next-greater-node-in-linked-list](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/1019-next-greater-node-in-linked-list) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [2390-removing-stars-from-a-string](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/2390-removing-stars-from-a-string) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Merge Sort
@@ -396,4 +398,8 @@
 | ------- |
 | [0547-number-of-provinces](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0841-keys-and-rooms) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
