@@ -62,6 +62,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0020-valid-parentheses) |
 | [0647-palindromic-substrings](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0647-palindromic-substrings) |
 | [0796-rotate-string](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0796-rotate-string) |
 | [0917-reverse-only-letters](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0917-reverse-only-letters) |
@@ -235,6 +236,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0020-valid-parentheses) |
 | [0445-add-two-numbers-ii](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0445-add-two-numbers-ii) |
 | [0682-baseball-game](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0739-daily-temperatures) |
@@ -404,5 +406,6 @@
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0020-valid-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
