@@ -63,6 +63,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0022-generate-parentheses) |
 | [0647-palindromic-substrings](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0647-palindromic-substrings) |
 | [0796-rotate-string](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0796-rotate-string) |
 | [0917-reverse-only-letters](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0917-reverse-only-letters) |
@@ -132,6 +133,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0022-generate-parentheses) |
 | [0062-unique-paths](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0509-fibonacci-number) |
@@ -379,6 +381,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0022-generate-parentheses) |
 | [0078-subsets](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0078-subsets) |
 | [0113-path-sum-ii](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0113-path-sum-ii) |
 ## String Matching
@@ -407,5 +410,6 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0022-generate-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
