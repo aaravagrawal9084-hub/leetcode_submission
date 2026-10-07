@@ -151,6 +151,7 @@
 | [0231-power-of-two](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0509-fibonacci-number) |
+| [2487-remove-nodes-from-linked-list](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/2487-remove-nodes-from-linked-list) |
 ## Memoization
 |  |
 | ------- |
@@ -240,6 +241,7 @@
 | [1019-next-greater-node-in-linked-list](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/1019-next-greater-node-in-linked-list) |
 | [1669-merge-in-between-linked-lists](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/1669-merge-in-between-linked-lists) |
 | [2326-spiral-matrix-iv](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/2326-spiral-matrix-iv) |
+| [2487-remove-nodes-from-linked-list](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/2487-remove-nodes-from-linked-list) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Stack
@@ -256,6 +258,7 @@
 | [1019-next-greater-node-in-linked-list](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/1019-next-greater-node-in-linked-list) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [2390-removing-stars-from-a-string](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/2390-removing-stars-from-a-string) |
+| [2487-remove-nodes-from-linked-list](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/2487-remove-nodes-from-linked-list) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Merge Sort
 |  |
@@ -267,6 +270,7 @@
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0739-daily-temperatures](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0739-daily-temperatures) |
 | [1019-next-greater-node-in-linked-list](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/1019-next-greater-node-in-linked-list) |
+| [2487-remove-nodes-from-linked-list](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/2487-remove-nodes-from-linked-list) |
 ## Tree
 |  |
 | ------- |
