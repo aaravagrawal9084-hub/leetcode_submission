@@ -22,6 +22,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0240-search-a-2d-matrix-ii) |
 | [0260-single-number-iii](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0260-single-number-iii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0503-next-greater-element-ii](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0503-next-greater-element-ii) |
 | [0523-continuous-subarray-sum](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0525-contiguous-array) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0581-shortest-unsorted-continuous-subarray) |
@@ -250,6 +251,7 @@
 | [0020-valid-parentheses](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0020-valid-parentheses) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0445-add-two-numbers-ii) |
+| [0503-next-greater-element-ii](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0503-next-greater-element-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0682-baseball-game](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0739-daily-temperatures) |
@@ -267,6 +269,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0503-next-greater-element-ii](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0503-next-greater-element-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0739-daily-temperatures](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0739-daily-temperatures) |
 | [1019-next-greater-node-in-linked-list](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/1019-next-greater-node-in-linked-list) |
