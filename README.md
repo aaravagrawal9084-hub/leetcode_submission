@@ -148,6 +148,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0002-add-two-numbers) |
+| [0025-reverse-nodes-in-k-group](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0025-reverse-nodes-in-k-group) |
 | [0203-remove-linked-list-elements](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0231-power-of-two) |
@@ -229,6 +230,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0002-add-two-numbers) |
+| [0025-reverse-nodes-in-k-group](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0061-rotate-list) |
 | [0086-partition-list](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0086-partition-list) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0114-flatten-binary-tree-to-linked-list) |
