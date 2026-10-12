@@ -172,6 +172,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0023-merge-k-sorted-lists) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0169-majority-element) |
@@ -180,6 +181,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0215-kth-largest-element-in-an-array) |
 ## Quickselect
 |  |
@@ -230,6 +232,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0002-add-two-numbers) |
+| [0023-merge-k-sorted-lists](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0023-merge-k-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0061-rotate-list) |
 | [0086-partition-list](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0086-partition-list) |
@@ -269,6 +272,7 @@
 ## Merge Sort
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0148-sort-list) |
 ## Monotonic Stack
 |  |
@@ -448,4 +452,8 @@
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0543-diameter-of-binary-tree) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
