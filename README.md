@@ -71,6 +71,7 @@
 | [0647-palindromic-substrings](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0647-palindromic-substrings) |
 | [0796-rotate-string](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0796-rotate-string) |
 | [0917-reverse-only-letters](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0917-reverse-only-letters) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -213,6 +214,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0011-container-with-most-water) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Simulation
 |  |
 | ------- |
@@ -270,6 +272,7 @@
 | [0682-baseball-game](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0739-daily-temperatures) |
 | [0897-increasing-order-search-tree](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0897-increasing-order-search-tree) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1006-clumsy-factorial](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/1006-clumsy-factorial) |
 | [1019-next-greater-node-in-linked-list](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/1019-next-greater-node-in-linked-list) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -455,6 +458,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0022-generate-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## DP on Trees
 |  |
