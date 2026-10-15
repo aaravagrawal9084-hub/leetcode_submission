@@ -73,6 +73,7 @@
 | [0917-reverse-only-letters](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0917-reverse-only-letters) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2390-removing-stars-from-a-string](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/2390-removing-stars-from-a-string) |
@@ -276,6 +277,7 @@
 | [1006-clumsy-factorial](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/1006-clumsy-factorial) |
 | [1019-next-greater-node-in-linked-list](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/1019-next-greater-node-in-linked-list) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1441-build-an-array-with-stack-operations](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/1441-build-an-array-with-stack-operations) |
 | [2390-removing-stars-from-a-string](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/2390-removing-stars-from-a-string) |
 | [2487-remove-nodes-from-linked-list](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/2487-remove-nodes-from-linked-list) |
