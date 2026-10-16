@@ -76,6 +76,7 @@
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2000-reverse-prefix-of-word](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/2000-reverse-prefix-of-word) |
 | [2390-removing-stars-from-a-string](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/2390-removing-stars-from-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/3498-reverse-degree-of-a-string) |
 ## Sliding Window
@@ -210,6 +211,7 @@
 | [0647-palindromic-substrings](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0647-palindromic-substrings) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0917-reverse-only-letters](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0917-reverse-only-letters) |
+| [2000-reverse-prefix-of-word](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/2000-reverse-prefix-of-word) |
 ## Greedy
 |  |
 | ------- |
@@ -279,6 +281,7 @@
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1441-build-an-array-with-stack-operations](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/1441-build-an-array-with-stack-operations) |
+| [2000-reverse-prefix-of-word](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/2000-reverse-prefix-of-word) |
 | [2390-removing-stars-from-a-string](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/2390-removing-stars-from-a-string) |
 | [2487-remove-nodes-from-linked-list](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/2487-remove-nodes-from-linked-list) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/2816-double-a-number-represented-as-a-linked-list) |
