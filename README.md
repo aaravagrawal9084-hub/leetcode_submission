@@ -78,6 +78,7 @@
 | [1832-check-if-the-sentence-is-pangram](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2000-reverse-prefix-of-word](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/2000-reverse-prefix-of-word) |
 | [2390-removing-stars-from-a-string](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/2390-removing-stars-from-a-string) |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [3174-clear-digits](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/3174-clear-digits) |
 | [3498-reverse-degree-of-a-string](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/3498-reverse-degree-of-a-string) |
 ## Sliding Window
@@ -230,6 +231,7 @@
 | [1929-concatenation-of-array](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/1929-concatenation-of-array) |
 | [2326-spiral-matrix-iv](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/2326-spiral-matrix-iv) |
 | [2390-removing-stars-from-a-string](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/2390-removing-stars-from-a-string) |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [3174-clear-digits](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/3174-clear-digits) |
 | [3498-reverse-degree-of-a-string](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/3498-reverse-degree-of-a-string) |
 ## Matrix
@@ -286,6 +288,7 @@
 | [2000-reverse-prefix-of-word](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/2000-reverse-prefix-of-word) |
 | [2390-removing-stars-from-a-string](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/2390-removing-stars-from-a-string) |
 | [2487-remove-nodes-from-linked-list](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/2487-remove-nodes-from-linked-list) |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [3174-clear-digits](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/3174-clear-digits) |
 ## Merge Sort
