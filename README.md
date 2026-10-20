@@ -62,6 +62,7 @@
 | [0974-subarray-sums-divisible-by-k](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## String
 |  |
 | ------- |
@@ -82,6 +83,7 @@
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [3174-clear-digits](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/3174-clear-digits) |
 | [3498-reverse-degree-of-a-string](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/3498-reverse-degree-of-a-string) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Sliding Window
 |  |
 | ------- |
