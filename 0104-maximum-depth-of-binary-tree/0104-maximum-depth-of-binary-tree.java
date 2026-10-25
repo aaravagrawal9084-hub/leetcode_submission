@@ -21,8 +21,12 @@ class Solution {
         if(root==null){
             return 0;
         }
-        int left  = 1 + dfs(root.left);
-        int right = 1 + dfs(root.right);
-        return Math.max(left,right);
+        if(root.left==null && root.right==null){
+            return 1;
+        }
+        int left = dfs(root.left);
+        int right = dfs(root.right);
+        return Math.max(left,right)+1;
+
     }
 }
