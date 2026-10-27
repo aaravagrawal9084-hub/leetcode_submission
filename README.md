@@ -14,6 +14,7 @@
 | [0073-set-matrix-zeroes](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0088-merge-sorted-array](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0137-single-number-ii](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0137-single-number-ii) |
 | [0169-majority-element](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0169-majority-element) |
@@ -113,6 +114,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0088-merge-sorted-array) |
 | [0147-insertion-sort-list](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0169-majority-element) |
@@ -216,6 +218,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0061-rotate-list](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0061-rotate-list) |
 | [0086-partition-list](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0086-partition-list) |
+| [0088-merge-sorted-array](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0148-sort-list) |
 | [0392-is-subsequence](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0392-is-subsequence) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0581-shortest-unsorted-continuous-subarray) |
