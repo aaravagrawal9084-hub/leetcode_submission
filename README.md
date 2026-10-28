@@ -33,6 +33,7 @@
 | [0744-find-smallest-letter-greater-than-target](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0746-min-cost-climbing-stairs](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0746-min-cost-climbing-stairs) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0881-boats-to-save-people](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0881-boats-to-save-people) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1019-next-greater-node-in-linked-list](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/1019-next-greater-node-in-linked-list) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -122,6 +123,7 @@
 | [0229-majority-element-ii](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0229-majority-element-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0881-boats-to-save-people](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0881-boats-to-save-people) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -224,6 +226,7 @@
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0647-palindromic-substrings](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0647-palindromic-substrings) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0881-boats-to-save-people](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0881-boats-to-save-people) |
 | [0917-reverse-only-letters](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0917-reverse-only-letters) |
 | [2000-reverse-prefix-of-word](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/2000-reverse-prefix-of-word) |
 ## Greedy
@@ -231,6 +234,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0011-container-with-most-water) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0881-boats-to-save-people](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0881-boats-to-save-people) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 ## Simulation
@@ -501,4 +505,8 @@
 |  |
 | ------- |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
+## Timsort
+|  |
+| ------- |
+| [0881-boats-to-save-people](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0881-boats-to-save-people) |
 <!---LeetCode Topics End-->
