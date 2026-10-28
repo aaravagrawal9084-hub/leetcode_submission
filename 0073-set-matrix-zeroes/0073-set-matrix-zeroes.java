@@ -12,7 +12,6 @@ class Solution {
         int m = matrix.length;
         int n = matrix[0].length;
         int count = 0;
-        // Store the positions of all zeros
         for (int i = 0; i < m; i++) {
             for (int j = 0; j < n; j++) {
                 if (matrix[i][j] == 0) {
@@ -20,7 +19,6 @@ class Solution {
                 }
             }
         }
-        // Make the corresponding rows and columns zero
         for (Pair p : map.values()) {
             int r = p.row;
             int c = p.col;
