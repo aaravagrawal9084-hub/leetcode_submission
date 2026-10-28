@@ -57,6 +57,7 @@
 | [0138-copy-list-with-random-pointer](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0138-copy-list-with-random-pointer) |
 | [0169-majority-element](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0242-valid-anagram) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0523-continuous-subarray-sum](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0525-contiguous-array) |
@@ -71,6 +72,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0022-generate-parentheses) |
+| [0242-valid-anagram](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0392-is-subsequence) |
 | [0647-palindromic-substrings](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0647-palindromic-substrings) |
 | [0796-rotate-string](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0796-rotate-string) |
@@ -122,6 +124,7 @@
 | [0169-majority-element](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0242-valid-anagram) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0881-boats-to-save-people](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0881-boats-to-save-people) |
