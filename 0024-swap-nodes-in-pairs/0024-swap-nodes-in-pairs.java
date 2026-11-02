@@ -18,6 +18,5 @@ class Solution {
         temp.next = swapPairs(temp2.next);
         temp2.next = temp;
         return temp2;
-
     }
 }
