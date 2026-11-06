@@ -308,6 +308,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0020-valid-parentheses) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0155-min-stack](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0155-min-stack) |
 | [0445-add-two-numbers-ii](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0445-add-two-numbers-ii) |
 | [0503-next-greater-element-ii](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0503-next-greater-element-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0581-shortest-unsorted-continuous-subarray) |
@@ -527,4 +528,8 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0141-linked-list-cycle) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
