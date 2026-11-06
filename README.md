@@ -48,6 +48,7 @@
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3875-construct-uniform-parity-array-i](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/3875-construct-uniform-parity-array-i) |
+| [3895-count-digit-appearances](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/3895-count-digit-appearances) |
 ## Hash Table
 |  |
 | ------- |
@@ -118,6 +119,7 @@
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3875-construct-uniform-parity-array-i](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/3875-construct-uniform-parity-array-i) |
+| [3895-count-digit-appearances](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/3895-count-digit-appearances) |
 ## Sorting
 |  |
 | ------- |
