@@ -1,48 +1,31 @@
-/**
- * Definition for singly-linked list.
- * public class ListNode {
- *     int val;
- *     ListNode next;
- *     ListNode() {}
- *     ListNode(int val) { this.val = val; }
- *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
- * }
- */
+
 class Solution {
     public ListNode reverseKGroup(ListNode head, int k) {
-        Stack<ListNode> st  = new Stack<>();
+
         ListNode temp = head;
-        ListNode dummy = new ListNode(-1);
-        ListNode a = dummy;
-        Stack<ListNode> pt = new Stack<>();
-        while(temp!=null){
-            if(st.size()==k){
-                while(st.size()!=0){
-                    a.next = st.pop();
-                    a = a.next;
-                }
-                st.push(temp);
-            }
-            else{
-                st.push(temp);
+
+        // Check whether k nodes exist
+        for(int i = 0; i < k; i++) {
+            if(temp == null) {
+                return head;
             }
             temp = temp.next;
         }
-        if(st.size()==k){
-            while(st.size()!=0){
-                a.next = st.pop();
-                a =a.next;
-            }
+
+        // Reverse first k nodes
+        ListNode prev = null;
+        ListNode curr = head;
+
+        for(int i = 0; i < k; i++) {
+            ListNode next = curr.next;
+            curr.next = prev;
+            prev = curr;
+            curr = next;
         }
-        
-        while(st.size()!=0){
-            pt.push(st.pop());
-        }
-        while(pt.size()!=0){
-            a.next = pt.pop();
-            a =a.next;
-        }
-        a.next = null;
-        return dummy.next;
+
+        // Recursive call for remaining nodes
+        head.next = reverseKGroup(curr, k);
+
+        return prev;
     }
 }
