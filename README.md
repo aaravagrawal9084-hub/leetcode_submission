@@ -24,6 +24,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0240-search-a-2d-matrix-ii) |
 | [0260-single-number-iii](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0260-single-number-iii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0456-132-pattern](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0456-132-pattern) |
 | [0503-next-greater-element-ii](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0503-next-greater-element-ii) |
 | [0523-continuous-subarray-sum](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0525-contiguous-array) |
@@ -196,6 +197,7 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0240-search-a-2d-matrix-ii) |
 | [0278-first-bad-version](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0278-first-bad-version) |
+| [0456-132-pattern](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0456-132-pattern) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1539-kth-missing-positive-number](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/1539-kth-missing-positive-number) |
@@ -312,6 +314,7 @@
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0155-min-stack](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0155-min-stack) |
 | [0445-add-two-numbers-ii](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0445-add-two-numbers-ii) |
+| [0456-132-pattern](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0456-132-pattern) |
 | [0503-next-greater-element-ii](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0503-next-greater-element-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0682-baseball-game](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0682-baseball-game) |
@@ -339,6 +342,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0456-132-pattern](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0456-132-pattern) |
 | [0503-next-greater-element-ii](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0503-next-greater-element-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0739-daily-temperatures](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0739-daily-temperatures) |
@@ -536,4 +540,8 @@
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0155-min-stack) |
+## Ordered Set
+|  |
+| ------- |
+| [0456-132-pattern](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0456-132-pattern) |
 <!---LeetCode Topics End-->
