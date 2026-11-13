@@ -23,6 +23,7 @@
 | [0229-majority-element-ii](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0240-search-a-2d-matrix-ii) |
 | [0260-single-number-iii](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0260-single-number-iii) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0456-132-pattern](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0456-132-pattern) |
 | [0503-next-greater-element-ii](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0503-next-greater-element-ii) |
@@ -132,6 +133,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0242-valid-anagram) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0881-boats-to-save-people](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0881-boats-to-save-people) |
@@ -197,6 +199,7 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0240-search-a-2d-matrix-ii) |
 | [0278-first-bad-version](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0278-first-bad-version) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0456-132-pattern](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0456-132-pattern) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -216,6 +219,7 @@
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0215-kth-largest-element-in-an-array) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Quickselect
 |  |
 | ------- |
@@ -274,6 +278,7 @@
 | [0073-set-matrix-zeroes](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0073-set-matrix-zeroes) |
 | [0200-number-of-islands](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0240-search-a-2d-matrix-ii) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1672-richest-customer-wealth](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/1672-richest-customer-wealth) |
 | [2326-spiral-matrix-iv](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/2326-spiral-matrix-iv) |
 ## Linked List
