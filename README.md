@@ -89,6 +89,7 @@
 | [1832-check-if-the-sentence-is-pangram](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2000-reverse-prefix-of-word](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/2000-reverse-prefix-of-word) |
+| [2375-construct-smallest-number-from-di-string](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/2375-construct-smallest-number-from-di-string) |
 | [2390-removing-stars-from-a-string](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/2390-removing-stars-from-a-string) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [3174-clear-digits](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/3174-clear-digits) |
@@ -247,6 +248,7 @@
 | [0881-boats-to-save-people](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0881-boats-to-save-people) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [2375-construct-smallest-number-from-di-string](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/2375-construct-smallest-number-from-di-string) |
 ## Simulation
 |  |
 | ------- |
@@ -323,6 +325,7 @@
 | [1441-build-an-array-with-stack-operations](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/1441-build-an-array-with-stack-operations) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2000-reverse-prefix-of-word](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/2000-reverse-prefix-of-word) |
+| [2375-construct-smallest-number-from-di-string](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/2375-construct-smallest-number-from-di-string) |
 | [2390-removing-stars-from-a-string](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/2390-removing-stars-from-a-string) |
 | [2487-remove-nodes-from-linked-list](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/2487-remove-nodes-from-linked-list) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/2696-minimum-string-length-after-removing-substrings) |
@@ -479,6 +482,7 @@
 | [0022-generate-parentheses](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0022-generate-parentheses) |
 | [0078-subsets](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0078-subsets) |
 | [0113-path-sum-ii](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0113-path-sum-ii) |
+| [2375-construct-smallest-number-from-di-string](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/2375-construct-smallest-number-from-di-string) |
 ## String Matching
 |  |
 | ------- |
