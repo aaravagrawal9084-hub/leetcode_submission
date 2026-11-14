@@ -31,6 +31,7 @@
 | [0523-continuous-subarray-sum](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0525-contiguous-array) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0658-find-k-closest-elements](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0658-find-k-closest-elements) |
 | [0682-baseball-game](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0739-daily-temperatures) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -104,6 +105,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0658-find-k-closest-elements](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0658-find-k-closest-elements) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Math
@@ -141,6 +143,7 @@
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0658-find-k-closest-elements](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0658-find-k-closest-elements) |
 | [0881-boats-to-save-people](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0881-boats-to-save-people) |
 | [0973-k-closest-points-to-origin](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0973-k-closest-points-to-origin) |
 ## Bit Manipulation
@@ -208,6 +211,7 @@
 | [0278-first-bad-version](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0278-first-bad-version) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0456-132-pattern](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0456-132-pattern) |
+| [0658-find-k-closest-elements](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0658-find-k-closest-elements) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1539-kth-missing-positive-number](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/1539-kth-missing-positive-number) |
@@ -230,6 +234,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0658-find-k-closest-elements](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0658-find-k-closest-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0973-k-closest-points-to-origin) |
 ## Quickselect
 |  |
@@ -256,6 +261,7 @@
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0647-palindromic-substrings](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0647-palindromic-substrings) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0658-find-k-closest-elements](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0658-find-k-closest-elements) |
 | [0881-boats-to-save-people](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0881-boats-to-save-people) |
 | [0917-reverse-only-letters](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0917-reverse-only-letters) |
 | [2000-reverse-prefix-of-word](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/2000-reverse-prefix-of-word) |
