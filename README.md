@@ -37,6 +37,7 @@
 | [0817-linked-list-components](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0817-linked-list-components) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0881-boats-to-save-people](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0881-boats-to-save-people) |
+| [0973-k-closest-points-to-origin](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0973-k-closest-points-to-origin) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1019-next-greater-node-in-linked-list](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/1019-next-greater-node-in-linked-list) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -116,6 +117,7 @@
 | [0445-add-two-numbers-ii](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0445-add-two-numbers-ii) |
 | [0509-fibonacci-number](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0523-continuous-subarray-sum) |
+| [0973-k-closest-points-to-origin](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0973-k-closest-points-to-origin) |
 | [1006-clumsy-factorial](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/1006-clumsy-factorial) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
@@ -137,6 +139,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0881-boats-to-save-people](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0881-boats-to-save-people) |
+| [0973-k-closest-points-to-origin](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0973-k-closest-points-to-origin) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -214,16 +217,19 @@
 | [0169-majority-element](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0240-search-a-2d-matrix-ii) |
+| [0973-k-closest-points-to-origin](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0973-k-closest-points-to-origin) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0215-kth-largest-element-in-an-array) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0973-k-closest-points-to-origin](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0973-k-closest-points-to-origin) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0215-kth-largest-element-in-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0973-k-closest-points-to-origin) |
 ## Ternary Search
 |  |
 | ------- |
@@ -551,4 +557,12 @@
 |  |
 | ------- |
 | [0456-132-pattern](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0456-132-pattern) |
+## Geometry
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0973-k-closest-points-to-origin) |
+## K-D Tree
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
