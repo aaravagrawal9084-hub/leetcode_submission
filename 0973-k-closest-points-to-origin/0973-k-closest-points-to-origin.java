@@ -9,12 +9,12 @@ class Triplet implements Comparable<Triplet>{
     }
 
     public int compareTo(Triplet t){
-        return this.d - t.d;
+        return t.d - this.d;
     }
 }
 class Solution {
     public int[][] kClosest(int[][] points, int k) {
-        PriorityQueue<Triplet> pq = new PriorityQueue<>(Collections.reverseOrder());
+        PriorityQueue<Triplet> pq = new PriorityQueue<>();
         for(int[] arr : points){
             int x = arr[0];
             int y = arr[1];
