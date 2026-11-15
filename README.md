@@ -83,6 +83,7 @@
 | [0020-valid-parentheses](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0022-generate-parentheses) |
 | [0242-valid-anagram](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0242-valid-anagram) |
+| [0257-binary-tree-paths](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0257-binary-tree-paths) |
 | [0392-is-subsequence](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0392-is-subsequence) |
 | [0647-palindromic-substrings](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0647-palindromic-substrings) |
 | [0796-rotate-string](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0796-rotate-string) |
@@ -390,6 +391,7 @@
 | [0129-sum-root-to-leaf-numbers](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0257-binary-tree-paths](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0257-binary-tree-paths) |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0429-n-ary-tree-level-order-traversal) |
 | [0437-path-sum-iii](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0437-path-sum-iii) |
 | [0513-find-bottom-left-tree-value](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0513-find-bottom-left-tree-value) |
@@ -447,6 +449,7 @@
 | [0129-sum-root-to-leaf-numbers](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0257-binary-tree-paths](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0257-binary-tree-paths) |
 | [0437-path-sum-iii](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0437-path-sum-iii) |
 | [0513-find-bottom-left-tree-value](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -477,6 +480,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0200-number-of-islands) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0257-binary-tree-paths](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0257-binary-tree-paths) |
 | [0437-path-sum-iii](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0437-path-sum-iii) |
 | [0513-find-bottom-left-tree-value](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -512,6 +516,7 @@
 | [0022-generate-parentheses](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0022-generate-parentheses) |
 | [0078-subsets](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0078-subsets) |
 | [0113-path-sum-ii](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0113-path-sum-ii) |
+| [0257-binary-tree-paths](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0257-binary-tree-paths) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/2375-construct-smallest-number-from-di-string) |
 ## String Matching
 |  |
