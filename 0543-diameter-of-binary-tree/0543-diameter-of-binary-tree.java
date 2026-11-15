@@ -17,21 +17,20 @@ class Solution {
     static int maxcount = 0;
     public int diameterOfBinaryTree(TreeNode root) {
         maxcount = 0;
-        dfs(root,0);
+        dfs(root);
         return maxcount;
     }
-    public static int dfs(TreeNode root,int count){
+    public static int dfs(TreeNode root){
         if(root==null){
             return 0;
         }
         if(root.left==null && root.right==null){
             return 1;
         }
-        int left = dfs(root.left,count);
-        int right = dfs(root.right,count);
+        int left = dfs(root.left);
+        int right = dfs(root.right);
         int sum = left + right;
         maxcount = Math.max(maxcount,sum);
         return Math.max(left,right)+1;
-
     }
 }
