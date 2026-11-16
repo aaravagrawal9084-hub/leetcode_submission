@@ -392,6 +392,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0257-binary-tree-paths) |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0429-n-ary-tree-level-order-traversal) |
 | [0437-path-sum-iii](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0437-path-sum-iii) |
@@ -452,6 +453,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0257-binary-tree-paths) |
 | [0437-path-sum-iii](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0437-path-sum-iii) |
 | [0513-find-bottom-left-tree-value](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0513-find-bottom-left-tree-value) |
@@ -484,6 +486,7 @@
 | [0200-number-of-islands](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0257-binary-tree-paths) |
 | [0437-path-sum-iii](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0437-path-sum-iii) |
 | [0513-find-bottom-left-tree-value](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0513-find-bottom-left-tree-value) |
@@ -591,4 +594,12 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0347-top-k-frequent-elements) |
+## Binary Lifting
+|  |
+| ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Lowest Common Ancestor
+|  |
+| ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 <!---LeetCode Topics End-->
