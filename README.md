@@ -181,6 +181,7 @@
 | [0022-generate-parentheses](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0022-generate-parentheses) |
 | [0062-unique-paths](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0070-climbing-stairs) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0392-is-subsequence](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0509-fibonacci-number) |
 | [0647-palindromic-substrings](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0647-palindromic-substrings) |
@@ -388,6 +389,7 @@
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0226-invert-binary-tree) |
@@ -450,6 +452,7 @@
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0226-invert-binary-tree) |
@@ -483,6 +486,7 @@
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0200-number-of-islands) |
@@ -561,6 +565,7 @@
 ## DP on Trees
 |  |
 | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0543-diameter-of-binary-tree) |
 ## Tournament Sort
 |  |
