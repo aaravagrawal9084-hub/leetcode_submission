@@ -63,6 +63,7 @@
 | [0073-set-matrix-zeroes](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0073-set-matrix-zeroes) |
 | [0138-copy-list-with-random-pointer](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0242-valid-anagram) |
@@ -259,6 +260,7 @@
 | [0088-merge-sorted-array](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0148-sort-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0160-intersection-of-two-linked-lists) |
 | [0392-is-subsequence](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0392-is-subsequence) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0647-palindromic-substrings](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0647-palindromic-substrings) |
@@ -320,6 +322,7 @@
 | [0141-linked-list-cycle](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0141-linked-list-cycle) |
 | [0147-insertion-sort-list](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0148-sort-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0237-delete-node-in-a-linked-list) |
