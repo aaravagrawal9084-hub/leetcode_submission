@@ -5,7 +5,7 @@ class Solution {
     }
     public static int dfs(int n,int[] arr){
         if(n==0 || n==1){
-            arr[n] = n;
+            // arr[n] = n;
             return n;
         }
         if(arr[n]!=0){
