@@ -14,23 +14,19 @@
  * }
  */
 class Solution {
-    static int maxcount = 0;
+    static int max  = 0;
     public int diameterOfBinaryTree(TreeNode root) {
-        maxcount = 0;
+        max = 0;
         dfs(root);
-        return maxcount;
+        return max;
     }
     public static int dfs(TreeNode root){
         if(root==null){
             return 0;
         }
-        if(root.left==null && root.right==null){
-            return 1;
-        }
         int left = dfs(root.left);
         int right = dfs(root.right);
-        int sum = left + right;
-        maxcount = Math.max(maxcount,sum);
-        return Math.max(left,right)+1;
+        max = Math.max(max,left+right);
+        return 1 + Math.max(left,right);
     }
 }
