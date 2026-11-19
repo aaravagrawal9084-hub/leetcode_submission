@@ -74,6 +74,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0817-linked-list-components](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0817-linked-list-components) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/3760-maximum-substrings-with-distinct-start) |
@@ -329,6 +330,7 @@
 | [0445-add-two-numbers-ii](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0445-add-two-numbers-ii) |
 | [0817-linked-list-components](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0817-linked-list-components) |
 | [1019-next-greater-node-in-linked-list](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/1019-next-greater-node-in-linked-list) |
+| [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [1669-merge-in-between-linked-lists](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/1669-merge-in-between-linked-lists) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2326-spiral-matrix-iv](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/2326-spiral-matrix-iv) |
