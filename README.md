@@ -130,6 +130,7 @@
 | [0973-k-closest-points-to-origin](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0973-k-closest-points-to-origin) |
 | [1006-clumsy-factorial](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/1006-clumsy-factorial) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1492-the-kth-factor-of-n](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/1492-the-kth-factor-of-n) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -586,6 +587,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [1492-the-kth-factor-of-n](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/1492-the-kth-factor-of-n) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 ## Timsort
 |  |
@@ -625,4 +627,8 @@
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Prime Factorization
+|  |
+| ------- |
+| [1492-the-kth-factor-of-n](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/1492-the-kth-factor-of-n) |
 <!---LeetCode Topics End-->
