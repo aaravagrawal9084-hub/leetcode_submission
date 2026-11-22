@@ -88,6 +88,7 @@
 | [0242-valid-anagram](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0257-binary-tree-paths) |
 | [0392-is-subsequence](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0392-is-subsequence) |
+| [0394-decode-string](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0394-decode-string) |
 | [0647-palindromic-substrings](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0647-palindromic-substrings) |
 | [0796-rotate-string](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0796-rotate-string) |
 | [0917-reverse-only-letters](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0917-reverse-only-letters) |
@@ -202,6 +203,7 @@
 | [0224-basic-calculator](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0326-power-of-three) |
+| [0394-decode-string](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0394-decode-string) |
 | [0509-fibonacci-number](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0509-fibonacci-number) |
 | [2487-remove-nodes-from-linked-list](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/2487-remove-nodes-from-linked-list) |
 ## Memoization
@@ -348,6 +350,7 @@
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0155-min-stack](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0155-min-stack) |
 | [0224-basic-calculator](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0224-basic-calculator) |
+| [0394-decode-string](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0394-decode-string) |
 | [0445-add-two-numbers-ii](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0445-add-two-numbers-ii) |
 | [0456-132-pattern](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0456-132-pattern) |
 | [0503-next-greater-element-ii](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0503-next-greater-element-ii) |
