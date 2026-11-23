@@ -1,24 +1,24 @@
 class Solution {
     public String decodeString(String s) {
-        Stack<Integer> stn = new Stack<>();
-        Stack<StringBuilder> st = new Stack<>();
+        Stack<Integer> stnum = new Stack<>();
+        Stack<StringBuilder> stsb = new Stack<>();
         StringBuilder sb = new StringBuilder();
         int num = 0;
         for(int i = 0;i<s.length();i++){
             char ch = s.charAt(i);
             if(Character.isDigit(ch)){
-                num = num *10 + (ch-'0');
+                num = num*10 + (ch-'0');
             }
             else if(ch=='['){
-                st.push(sb);
+                stsb.push(sb);
                 sb = new StringBuilder();
-                stn.push(num);
-                num =0;
+                stnum.push(num);
+                num = 0;
             }
             else if(ch==']'){
-                int n = stn.pop();
-                StringBuilder temp = st.pop();
-                for(int j = 1;j<=n;j++){
+                int n = stnum.pop();
+                StringBuilder temp = stsb.pop();
+                for(int j =1;j<=n;j++){
                     temp.append(sb);
                 }
                 sb = temp;
