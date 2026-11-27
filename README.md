@@ -43,6 +43,7 @@
 | [0973-k-closest-points-to-origin](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0973-k-closest-points-to-origin) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1019-next-greater-node-in-linked-list](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/1019-next-greater-node-in-linked-list) |
+| [1046-last-stone-weight](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/1046-last-stone-weight) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1441-build-an-array-with-stack-operations](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/1441-build-an-array-with-stack-operations) |
@@ -257,6 +258,7 @@
 | [0658-find-k-closest-elements](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0692-top-k-frequent-words) |
 | [0973-k-closest-points-to-origin](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/0973-k-closest-points-to-origin) |
+| [1046-last-stone-weight](https://github.com/aaravagrawal9084-hub/leetcode_submission/tree/master/1046-last-stone-weight) |
 ## Quickselect
 |  |
 | ------- |
